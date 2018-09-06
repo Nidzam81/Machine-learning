@@ -1,0 +1,1 @@
+python scan.ppy --image images\page.jpg
